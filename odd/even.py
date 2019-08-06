@@ -1,4 +1,4 @@
-a=int(input("enter a no :"))
+a=int(input())
 if(a<0):
     print("Invalid")
 elif ((a%2)==0):
