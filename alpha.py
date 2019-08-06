@@ -1,6 +1,6 @@
 a=str(input())
 if a.isalpha():
- print("alphabet")
+ print("Alphabet")
 else :
-    print("not a alphabet")
+    print("No")
  
